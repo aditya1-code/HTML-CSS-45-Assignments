@@ -1,4 +1,4 @@
-DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +6,6 @@ DOCTYPE html>
     <title>setup proof</title>
 </head>
 <body>
-<!
     <h1>hello world</h1>
     <p>live server is working</p>
     <a href="c:\Users\perfect\Pictures\Screenshots\Screenshot (6).png">Screenshot</a>
